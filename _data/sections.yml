@@ -1,8 +1,8 @@
-- name: Publications
-  id: publications
-  # description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  url: publications.html
-  first: true
+# - name: Publications
+#   id: publications
+#   # description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   url: publications.html
+#   first: true
   
 - name: Relevant Coursework @ IITM
   id: courses
