@@ -1,0 +1,20 @@
+nav_list_title: Navigation List
+links:
+
+- title: About
+  url: about.html
+
+- title: Publications
+  url: publications.html
+
+# - title: Blog
+#   url: blog.html
+
+# - title: Write-Up
+#   url: writeup.html
+
+- title: Vitae
+  url: /assets/pdf/SahanaRamnath_CV_2021.pdf
+
+# - title: Contact
+#   url: contact.html

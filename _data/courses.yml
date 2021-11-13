@@ -1,0 +1,50 @@
+# - Course: POL 554 International Security Studies
+#   Program: School of Public and International Affairs  
+#   School: Harvard
+#   id: POL554
+#   description: >
+#     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+#   link: https://example.com
+
+# - Course: POL 585 International Political Economy
+#   Program: School of Public and International Affairs
+#   School: Harvard
+#   id: POL585
+#   description: >
+#     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.   
+#   link: https://example.com
+
+- Course: Machine Learning
+  # Type: Machine Learning
+- Course: Deep Learning
+  # Type: Machine Learning
+- Course: Reinforcement Learning
+  # Type: Machine Learning
+- Course: Topics in Reinforcement Learning
+  # Type: Machine Learning
+- Course: Dynamic Games - Theory and Applications
+  # Type: Machine Learning
+- Course: Causal Inference
+  # Type: Machine Learning
+
+- Course: Mathematical Foundations of Data Science
+  # Type: Data Analytics
+- Course: Introduction to Data Analytics
+  # Type: Data Analytics
+- Course: Data Analytics Laboratory
+  # Type: Data Analytics
+- Course: Big Data Laboratory
+  # Type: Data Analytics
+
+- Course: Linear Algebra for Engineers
+  # Type: Math
+- Course: Probability, Statistics and Stochastic Processes
+  # Type: Math
+
+- Course: Applied Programming Lab (Python)
+  # Type: Programming
+- Course: Introduction to Programming (C++)
+  # Type: Programming
+

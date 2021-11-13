@@ -1,0 +1,46 @@
+- name: HintedBT - Augmenting Back-Translation with Quality and Transliteration Hints
+  id: project1
+  description: >
+    Enabling effective usage of back-translation data for machine translation of low-resource, cross-script language pairs through hints/tags.
+  date: true
+  link: https://aclanthology.org/2021.emnlp-main.129
+  image: /assets/img/hintedbt.png
+  tech: 
+    - nlp
+    - machine translation
+    - back-translation
+    - data augmentation
+    - low-resource
+    - cross-script
+    - tensorflow
+
+- name: Analyzing Interpretability of Deep RCQA Systems
+  id: project2
+  description: >
+    Defining and analyzing the interpretability of four existing deep models (BERT, BiDAF, DCN, QANet) for the task of Reading Comprehension based Question Answering, on the dataset SQuAD. 
+  date: true
+  link: https://github.com/SahanaRamnath/Interpretability-of-Deep-Learning-Models
+  image: /assets/img/bert_squad_js_keep1_avg_500.png
+  tech: 
+    - python
+    - nlp
+    - BERT
+    - interpretability
+    - integrated gradients
+    - tensorflow
+
+- name: Dialog-Based Image Retrieval
+  id: project3
+  description: >
+    Implementing an novel, explainable system for dialog-based image retrieval, on the CLEVR-Dialog dataset. 
+  date: true
+  link: https://github.com/SahanaRamnath/Interpretability-of-Deep-Learning-Models
+  image: /assets/img/td1_img.png
+  tech: 
+    - python
+    - multimodal
+    - scene graphs
+    - interpretability
+    - pytorch
+
+

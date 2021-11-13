@@ -1,0 +1,26 @@
+- name: Publications
+  id: publications
+  # description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  url: publications.html
+  first: true
+  
+- name: Relevant Coursework @ IITM
+  id: courses
+  # description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  content: 
+  first: false
+
+- name: Positions of Responsibility
+  id: teaching
+  # description: PORs
+  content: 
+  url: teaching.html
+  first: false
+
+- name: Recent Projects
+  id: projects
+  # description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  content: 
+  url: projects.html
+  first: false
+
